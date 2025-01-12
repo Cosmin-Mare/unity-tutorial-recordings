@@ -1,0 +1,1 @@
+Navigate to the unity download link and press download. Now once it is downloaded, open it and go through the setup which will install unity hub. once unity hub has been installed go ahead and install unity editor and make sure to be on version 6 of unity.
