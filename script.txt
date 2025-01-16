@@ -1,0 +1,5 @@
+Navigate to the unity download link and press download. Now once it is downloaded, open it and go through the setup which will install unity hub. once unity hub has been installed go ahead and install unity editor and make sure to be on version 6 of unity.
+
+While the Editor is installing, go to the visual studio download page and click download visual studio. Go through the setup and scroll down to select game development with Unity.
+
+After everything has been downloaded, go into unity hub, to the projects section and click New Project in the top right corner. Select Universal 3D as the template. You can also name your project on the right. I'm gonna name mine Island Escape but feel free to name yours however you want. Enable Connect to Unity Cloud, but do not enable Use Unity Version Control, because we'll be using git throughout this tutorial.
